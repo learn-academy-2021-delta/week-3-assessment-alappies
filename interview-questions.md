@@ -66,11 +66,16 @@ Ok so this was a trick question. "yarn" is a javascript packaging manager that m
 ## Looking Ahead: Terms for Next Week
 
 1. Conditional rendering:
+Conditional rendering is where depending on your "State" you can render just some of the behaviors of your application instead of the entire DOM. 
 
 2. Props:
+Props is an object that can be passed into any component, and it stands for "properties"
 
 3. JavaScript Events:
+Javascript events are javascripts interatctions with Html. ie: page refreshing, button clicking, and resizing windows/
 
 4. Object oriented programming:
+Object oriented programming is what learn focuses more on. It focuses on real world attributes instead of just databased coding. 
 
 5. Ruby:
+Ruby is yet another opensource programming language, it can be run through the terminal, It has helpful built in methods and is easy to read and write. 
